@@ -14,7 +14,7 @@ namespace Jovian.SaveSystem {
         public SaveFormat saveFormat = SaveFormat.Json;
         public int maxAutoSavesPerSession = 3;
         public int currentSaveVersion = 1;
-        public string obfuscationKey = "nox-default-key";
+        public string obfuscationKey = "default-key";
         public string saveDirectoryName = "saves";
 
         public static SaveSystemSettings Load() {
