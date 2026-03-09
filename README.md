@@ -36,7 +36,7 @@ Settings are accessible in the Unity Editor under **Project Settings > Jovian > 
 | Max Auto Saves | 3 | Auto-save slots before rotation begins |
 | Save Version | 1 | Version number embedded in each save for migration |
 | Save Directory | "saves" | Subfolder under `Application.persistentDataPath` |
-| Obfuscation Key | "nox-default-key" | XOR key used by the Binary serializer |
+| Obfuscation Key | "default-key" | XOR key used by the Binary serializer |
 
 ## Save Slot Types
 
