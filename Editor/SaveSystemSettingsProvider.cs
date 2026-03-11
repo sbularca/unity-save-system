@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UnityEditor;
-using UnityEngine;
 
 namespace Jovian.SaveSystem.Editor {
     public sealed class SaveSystemSettingsProvider : SettingsProvider {
